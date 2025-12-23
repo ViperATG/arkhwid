@@ -1,6 +1,17 @@
 {
+  "version": 1,
   "keys": {
-    "ABC123-XYZ789": { "hwid": "BFEBFBFF000A0671D421FF96", "valid_until": "2025-12-31" },
-    "DEF456-PQR123": { "hwid": "", "valid_until": "2026-01-01" }
+     "SERVER_A": {
+      "hwid": "0",
+      "valid_until": "2026-12-31",
+      "note": "Customer XYZ - Bangkok",
+      "created_at": "2025-12-24"
+    },
+    "SERVER_A": {
+      "hwid": "0",
+      "valid_until": "2026-12-31",
+      "note": "Customer XYZ - Bangkok",
+      "created_at": "2025-12-24"
+    }
   }
 }
